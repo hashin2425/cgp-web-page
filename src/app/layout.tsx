@@ -16,9 +16,9 @@ export const metadata: Metadata = {
   title: "CGP（クリエゲーム制作プロジェクト）",
   description: "和歌山大学で活動するゲーム制作団体です。私たちは、本気でゲーム制作に取り組みたい学生たちが集まり、その情熱と才能を最大限に発揮できる場所となることを目指しています。初心者から経験者まで、プログラマー、デザイナー、プランナー、サウンドクリエイターなど、あらゆる役割の仲間を歓迎します！",
   icons: {
-    icon: "/icon_400x400.jpg",
-    shortcut: "/icon_400x400.jpg",
-    apple: "/icon_400x400.jpg",
+    icon: "/cgp-web-page/favicon.ico",
+    shortcut: "/cgp-web-page/favicon.ico",
+    apple: "/cgp-web-page/favicon.ico",
   },
   openGraph: {
     title: "CGP（クリエゲーム制作プロジェクト）",
